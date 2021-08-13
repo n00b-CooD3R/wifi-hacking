@@ -17,7 +17,7 @@ sudo airodump-ng wlan0
 
 ### For scanning specific wifi network 
 ```
-sudo airodum-nn --bssid (your bssid) --channel (your channel) --write filename wlan0
+sudo airodump-nn --bssid (your bssid) --channel (your channel) --write filename wlan0
 ```
 
 ### For Deauthentication attack
